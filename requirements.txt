@@ -7,3 +7,8 @@ dotenv
 langchain-google-genai
 langchain-ollama
 faiss-cpu
+streamlit
+chromadb
+pypdf
+langchain-huggingface
+sentence-transformers
